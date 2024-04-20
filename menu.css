@@ -1,0 +1,168 @@
+
+body{
+    background-image: url(bg.png);
+    background-size: 100%;
+    background-repeat: no repeat;
+    background-attachment: fixed;
+}
+
+.header{
+    display: block;
+}
+
+.left-header{
+    width: 60%;
+    margin-top: auto;
+    margin-bottom:-100px;
+    margin-left: 1%;
+    float: left;
+}
+
+.logo-header{
+    width: 40%;
+    margin-top: auto;
+}
+
+.right-header{
+    float: right;
+    margin-right: 10px;
+    margin-top: 80px ;
+    
+}
+
+.home-button{
+    font-size: 15px;
+    font-family:Georgia;
+    margin-right: 50px;
+    color: #6C3608;
+
+}
+
+.about-button{
+    font-size: 15px;
+    font-family:Georgia;
+    margin-right: 80px;
+    color:#6C3608;
+}
+
+.contact-button{
+    font-size: 15px;
+    font-family:Georgia;
+    margin-right: 80px;
+    color:#6C3608;
+}
+
+.title {
+    text-align: center;
+    position: relative;
+    
+}
+
+.image-title {
+    width: 80%;
+   
+
+}
+
+
+/*MENU PAGE*/
+
+.menu-row{
+    display:block;
+    width: 70%;
+}
+
+.caramel{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    margin-top: auto;
+}
+
+.caramel img{
+    float: left;
+    height:100%;
+    width: 100%;
+}
+
+.caramel-text h1{
+    font-size: 42px;
+    color:#6C3608
+    }
+
+.caramel-text p{
+    font-size: 20px;
+    color:#6C3608
+    }
+
+.ice-choco{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    margin-top: auto;
+}
+
+.ice-choco img{
+    float: left;
+    height:100%;
+    width: 100%;
+}
+
+.ice-choco-text h1{
+    font-size: 42px;
+    color:#6C3608
+    }
+
+.ice-choco-text  p{
+    font-size: 20px;
+    color:#6C3608
+    }
+
+.strawberry{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    margin-top: auto;
+}
+
+.strawberry img{
+    float: left;
+    height:100%;
+    width: 100%;
+}
+
+.strawberry-text h1{
+    font-size: 42px;
+    color:#6C3608
+    }
+
+.strawberry-text p{
+    font-size: 20px;
+    color:#6C3608
+    }
+
+.matcha{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    margin-top: auto;
+}
+
+.matcha img{
+    float: left;
+    height:100%;
+    width: 100%;
+}
+
+.matcha-text h1{
+    font-size: 42px;
+    color:#6C3608
+    }
+
+.matcha-text  p{
+    font-size: 20px;
+    color:#6C3608
+    }
+    
+            
+            

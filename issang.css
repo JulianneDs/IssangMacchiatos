@@ -1,0 +1,84 @@
+
+body{
+    background-image: url(bg.png);
+    background-size: 100%;
+    background-repeat: no repeat;
+    background-attachment: fixed;
+}
+
+.header{
+    display: block;
+}
+
+.left-header{
+    width: 60%;
+    margin-top: auto;
+    margin-bottom:-100px;
+    margin-left: 1%;
+    float: left;
+}
+
+.logo-header{
+    width: 40%;
+    margin-top: auto;
+}
+
+.right-header{
+    float: right;
+    margin-right: 10px;
+    margin-top: 80px ;
+    
+}
+
+.home-button{
+    font-size: 15px;
+    font-family:Georgia;
+    margin-right: 50px;
+    color: #6C3608;
+
+}
+
+.about-button{
+    font-size: 15px;
+    font-family:Georgia;
+    margin-right: 80px;
+    color:#6C3608;
+}
+
+.contact-button{
+    font-size: 15px;
+    font-family:Georgia;
+    margin-right: 80px;
+    color:#6C3608;
+}
+
+.title {
+    text-align: center;
+    position: relative;
+    
+}
+
+.image-title {
+    width: 80%;
+   
+
+}
+
+.menu-button{
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 50px;
+    margin: 0 ;
+}
+
+.menu-button img{
+    height: 180px;
+}
+
+.space{
+    margin-top: 800px;
+    display: block;
+}
+
